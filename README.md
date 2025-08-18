@@ -75,7 +75,3 @@ This portfolio demonstrates my ability to:
 3. Optimize for **real-world performance** with lazy loading, efficient animations, and responsive layouts.
 
 ---
-
-## 📜 License
-
-This project is licensed under an unknown license. For more details, refer to the original repository: [GitHub Repository](https://github.com/stefanpython/personal-website/tree/5c846c620a21b7b2443c65f719b7b066793abdc8/README.md).
